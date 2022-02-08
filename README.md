@@ -34,4 +34,8 @@ Connect both the laptop and your mobile / any other device to the same network.
 Open Web browser on the end device and put **`{IP_ADDRESS}:8080`** in the url.
 
 
+https://user-images.githubusercontent.com/63491387/153026030-1be74686-d740-44b2-9294-0f8cdf1f1a18.mp4
+
+
+
 ### Njoy....

@@ -1,5 +1,3 @@
-#!usr/bin/env python3
-
 from flask import Flask, render_template, Response
 import cv2
 
@@ -33,4 +31,4 @@ def video_feed():
     return Response(gen_frames(), mimetype='multipart/x-mixed-replace; boundary=frame')
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8080, debug=True)
+    app.run(host="0.0.0.0", port=8080, debug=false)
